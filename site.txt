@@ -1,0 +1,25 @@
+Menu: 
+
+----
+
+Footer-links: 
+
+----
+
+Social-links:
+
+- 
+  name: Instagram
+  url: >
+    https://www.instagram.com/klei.design.co/
+- 
+  name: Etsy
+  url: https://www.etsy.com/shop/KleiDesignCo
+
+----
+
+Address: Ingersoll, Ontario
+
+----
+
+Membership-logos: 
