@@ -1,0 +1,21 @@
+Title: Atom Clock Oak
+
+----
+
+Summary: This modern clock is inspired by the dynamic motion and particles of an atom, the Atom Clock brings a touch of minimalist elegance to your space.
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Crafted from solid white ash, this wall clock features black embedded hour markers that blend seamlessly into the clock’s body, creating a sense of movement and depth.</p><p>Designed for those who appreciate both form and function, the Atom Clock is more than just a timepiece—it’s a statement of style. The clock is finished with a semi-matte hard wax oil that enhances and protects the natural beauty of the wood.</p><p>Silent in operation, the Atom Clock ensures a peaceful environment, while its continuous motion hands glide effortlessly to keep you on time. Installation is a breeze with the included brass key slot and hanger screw.</p>"},"id":"40d6aa38-2c2b-449c-a5f8-ab1f8cdeb1a4","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Specifications","class":""},"id":"43f8a114-5cf8-4f4f-b9aa-fc08ac2dc47c","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li>Material: 100% Solid White Ash</li><li>Size: 12” Diameter x 1” Deep</li><li>Hardware: 1x Hanger Screw (included)</li><li>Battery: 1 x AA Battery (not included)</li></ul>","style":"default"},"id":"18ce904c-0aa4-4142-a5ad-e3d7117a75af","isHidden":false,"type":"list"}],"id":"d17652a9-b4e8-44ba-b9f8-2de94dcb9beb","width":"1/1"}],"id":"9619beac-8686-4c56-b8c2-c1ebe6e85739"}]
+
+----
+
+Cover: - file://yqh8iey0wwfhmvxi
+
+----
+
+Price: 175
+
+----
+
+Uuid: 7csih3aos5ekicph
