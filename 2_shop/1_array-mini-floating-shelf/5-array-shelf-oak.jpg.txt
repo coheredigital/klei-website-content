@@ -1,0 +1,9 @@
+Alt: 
+
+----
+
+Uuid: fkyt7zfhkmpfkxgw
+
+----
+
+Template: image
