@@ -7,3 +7,7 @@ Uuid: v4xilpdzjkemwl0j
 ----
 
 Template: image
+
+----
+
+Focus: 26.0% 49.6%

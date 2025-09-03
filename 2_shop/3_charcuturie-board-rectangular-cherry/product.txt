@@ -6,7 +6,20 @@ Summary: Crafted using solid walnut this beautiful serving tray  incorporates sc
 
 ----
 
-Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Have it all come together and  make it beautiful by creating an artful display.<br><br>Made with 100% solid wood and finished with food-grade oil to preserve and protect the wood's natural beauty.<br><br>Please  note every serving board is one of a kind and has its own unique  colour, grain, and markings, each serving board will differ from the one  in the photo.<br><br>Size – 14\" L x 7.25\" W (includes handle)</p>"},"id":"93661481-3aa3-4d46-b2d7-f9a785dcdc7f","isHidden":false,"type":"text"}],"id":"bc31e17c-8917-48cd-a5f2-9f5a518b5161","width":"1/1"}],"id":"0250c9da-fa72-4692-9852-cb8a1960b7a0"}]
+Gallery:
+
+- file://xalhd9a07wuhemyy
+- file://2mnr9bmxvlpu67sb
+- file://vdqjwxm90nnjwpmq
+- file://msxn3oe1qwja64wd
+
+----
+
+Description: <p>Have it all come together and  make it beautiful by creating an artful display.<br><br>Made with 100% solid wood and finished with food-grade oil to preserve and protect the wood's natural beauty.<br><br>Please  note every serving board is one of a kind and has its own unique  colour, grain, and markings, each serving board will differ from the one  in the photo.<br><br>Size – 14" L x 7.25" W (includes handle)</p>
+
+----
+
+Layout: 
 
 ----
 
