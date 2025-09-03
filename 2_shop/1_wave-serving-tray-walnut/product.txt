@@ -19,7 +19,7 @@ Description: <p>It is the perfect way to display your favourite fruits while mak
 
 ----
 
-Layout: [{"attrs":{"color":""},"columns":[{"blocks":[{"content":{"images":["file://ptxeozm01xdfnin3","file://au1u87pgvfwubwux","file://qzn2nmz4etm4eno2","file://hduq9qjhg1vcs6d0","file://sfbrfmb9icbamzjg"],"style":"slider","ratio":"","crop":"false","caption":""},"id":"f6a258f9-4ba9-4be4-8015-cbbf0748631f","isHidden":false,"type":"gallery"}],"id":"e07d826a-53f8-4477-bb7d-8f56d98e5765","width":"1/2"},{"blocks":[{"content":{"text":"<p>It is the perfect way to display your favourite fruits while making a unique centrepiece for your table. Get creative with your fruit placement and make it beautiful by creating an artful display.<br><br>Made with 100% solid wood and finished with food-grade oil to preserve and protect the wood's natural beauty.<br><br>Please note every serving platter is one of a kind and has its own unique colour, grain, and markings, each will differ from the one in the photos.</p>"},"id":"2d81934f-b2e2-44a9-bce9-1f3f32f27cfe","isHidden":false,"type":"text"}],"id":"14394011-8b0f-49c0-80ca-db18f7330372","width":"1/2"}],"id":"ae656188-6e35-4a0b-80d6-dff603f95973"}]
+Layout: 
 
 ----
 

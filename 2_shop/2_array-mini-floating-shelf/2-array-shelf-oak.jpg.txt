@@ -7,3 +7,7 @@ Uuid: cgtyatfkqspc2jmb
 ----
 
 Template: image
+
+----
+
+Focus: 48.8% 55.2%

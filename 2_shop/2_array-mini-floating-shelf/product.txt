@@ -6,7 +6,21 @@ Summary: Showcase your cherished items with style and elegance on the Mini Float
 
 ----
 
-Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Its compact size (7\" wide x 5.5\" deep) makes it perfect for small spaces or creative wall arrangements. Whether you display a single piece or group several shelves together for a bold statement, this shelf is a versatile and functional decor element.</p><p>Easy to install with included screws and drywall plugs, it’s designed to seamlessly float on your wall, letting your treasures take center stage.</p><p>Add warmth, character, and a modern touch to your home with this timeless floating shelf.</p>"},"id":"0f883627-3faf-40d5-b30e-729334590904","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"<p>Specifications</p>","class":""},"id":"21d08e26-5e25-4040-9244-a1f478052c35","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li>Material: 100% Walnut</li><li>Size: 7\" Wide x 5.5” Deep</li><li>Hardware: 2x Screws and Drywall Plugs (Included)</li></ul>","style":"default"},"id":"112800a4-14ad-4823-9950-d5547990d75a","isHidden":false,"type":"list"}],"id":"fa84efab-1fd4-4c39-bcb5-c116c787290f","width":"1/1"}],"id":"56eedd39-7fd1-48f6-b4f1-981bf53cd987"}]
+Gallery:
+
+- file://dudwbrgayee54mvv
+- file://gnbrh28gmd5wgozf
+- file://cgtyatfkqspc2jmb
+- file://v19hdkxg7jwndddf
+- file://zsnyb2imtgr9bqsg
+
+----
+
+Description: <p>Its compact size (7" wide x 5.5" deep) makes it perfect for small spaces or creative wall arrangements. Whether you display a single piece or group several shelves together for a bold statement, this shelf is a versatile and functional decor element.</p><p>Easy to install with included screws and drywall plugs, it’s designed to seamlessly float on your wall, letting your treasures take centre stage.</p><p>Add warmth, character, and a modern touch to your home with this timeless floating shelf.</p><h2>Specifications</h2><ul><li><p>Material: 100% Walnut</p></li><li><p>Size: 7" Wide x 5.5” Deep</p></li><li><p>Hardware: 2x Screws and Drywall Plugs (Included)</p></li></ul>
+
+----
+
+Layout: 
 
 ----
 

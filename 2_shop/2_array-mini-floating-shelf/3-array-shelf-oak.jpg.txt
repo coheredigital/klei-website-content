@@ -7,3 +7,7 @@ Uuid: gnbrh28gmd5wgozf
 ----
 
 Template: image
+
+----
+
+Focus: 67.4% 71.7%
