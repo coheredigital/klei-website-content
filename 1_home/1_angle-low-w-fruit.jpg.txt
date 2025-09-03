@@ -7,3 +7,7 @@ Uuid: ndhjxul3iylaqllm
 ----
 
 Template: image
+
+----
+
+Focus: 24.6% 38.2%
