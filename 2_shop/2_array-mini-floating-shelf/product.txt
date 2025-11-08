@@ -2,10 +2,6 @@ Title: Array Mini Floating Shelf
 
 ----
 
-Summary: Showcase your cherished items with style and elegance on the Mini Floating Shelf. This shelf not only highlights your favourite plant, artwork, figurine, or special objects but also adds a touch of sophistication to any space.
-
-----
-
 Gallery:
 
 - file://dudwbrgayee54mvv
@@ -16,7 +12,19 @@ Gallery:
 
 ----
 
+Price: 45
+
+----
+
+Summary: Showcase your cherished items with style and elegance on the Mini Floating Shelf. This shelf not only highlights your favourite plant, artwork, figurine, or special objects but also adds a touch of sophistication to any space.
+
+----
+
 Description: <p>Its compact size (7" wide x 5.5" deep) makes it perfect for small spaces or creative wall arrangements. Whether you display a single piece or group several shelves together for a bold statement, this shelf is a versatile and functional decor element.</p><p>Easy to install with included screws and drywall plugs, it’s designed to seamlessly float on your wall, letting your treasures take centre stage.</p><p>Add warmth, character, and a modern touch to your home with this timeless floating shelf.</p><h2>Specifications</h2><ul><li><p>Material: 100% Walnut</p></li><li><p>Size: 7" Wide x 5.5” Deep</p></li><li><p>Hardware: 2x Screws and Drywall Plugs (Included)</p></li></ul>
+
+----
+
+Link: https://www.etsy.com/ca/listing/1818255604/floating-shelf-mini-curved-arc-walnut?ref=shop_home_feat_3&sts=1&logging_key=32c7751241f371c59c577b8d96034805d94d7eab%3A1818255604
 
 ----
 
@@ -25,10 +33,6 @@ Layout:
 ----
 
 Cover: - file://zsnyb2imtgr9bqsg
-
-----
-
-Price: 45
 
 ----
 
