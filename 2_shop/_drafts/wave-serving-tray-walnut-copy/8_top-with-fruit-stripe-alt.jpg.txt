@@ -1,0 +1,9 @@
+Alt: 
+
+----
+
+Uuid: cgtkse3tuck5y5bz
+
+----
+
+Template: image

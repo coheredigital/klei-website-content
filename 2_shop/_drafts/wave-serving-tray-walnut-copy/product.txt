@@ -1,0 +1,47 @@
+Title: Wave Serving Tray  Test
+
+----
+
+Gallery:
+
+- file://euaszmg1tutvsi5u
+- file://kq4n8ma5xncth2do
+- file://wxodpmgypnqxn7dh
+- file://rke8ra9qdvl9xqda
+
+----
+
+Layout: [{"attrs":{"color":""},"columns":[{"blocks":[{"content":{"image":["file://j0invynqz5hhmtzh"],"caption":"","ratio":"4/3","crop":"true","link":""},"id":"79043ec6-9730-4ae3-9772-70ba2c6a8add","isHidden":false,"type":"image"}],"id":"70b7d330-e93d-4c5f-904d-48c99d8f538c","width":"1/2"},{"blocks":[{"content":{"image":["file://sfbrfmb9icbamzjg"],"caption":"","ratio":"4/3","crop":"true","link":""},"id":"bacd401f-dc2d-4537-8a87-ada37ccc593a","isHidden":false,"type":"image"}],"id":"e4fa9a25-3e1e-40ef-81d9-c152f3d97fbf","width":"1/2"}],"id":"b9cc6fd1-0401-4a23-a581-104d7811f241"},{"attrs":{"color":""},"columns":[{"blocks":[{"content":{"image":["file://zvxcqnqqhflx274o"],"caption":"","ratio":"4/3","crop":"true","link":""},"id":"51ee57c6-05de-444f-8ebe-5e66b0a36386","isHidden":false,"type":"image"}],"id":"581804cb-7606-4133-bc92-deb6889fd935","width":"1/1"}],"id":"28f57b80-694a-4148-ae5b-d657b433af90"}]
+
+----
+
+Price: 200
+
+----
+
+Summary: This beautiful one-of-a-kind serving platter is made of solid walnut wood and incorporates sculptural wave-like details that cradle fruit and prevent rolling.
+
+----
+
+Description: <p>It is the perfect way to display your favourite fruits while making a unique centrepiece for your table. Get creative with your fruit placement and make it beautiful by creating an artful display.<br><br>Made with 100% solid wood and finished with food-grade oil to preserve and protect the wood's natural beauty.<br><br>Please note every serving platter is one of a kind and has its own unique colour, grain, and markings, each will differ from the one in the photos.</p>
+
+----
+
+Link: https://www.etsy.com/ca/listing/1541313280/artisan-walnut-platter-15-diameter-round?ref=shop_home_active_6&sca=1&sts=1&logging_key=dd447274d205b2078f39da235616511a23e45aa0%3A1541313280
+
+----
+
+Cover: - file://euaszmg1tutvsi5u
+
+----
+
+Galley:
+
+- file://euaszmg1tutvsi5u
+- file://kq4n8ma5xncth2do
+- file://wxodpmgypnqxn7dh
+- file://rke8ra9qdvl9xqda
+
+----
+
+Uuid: 0ultm2awhjbwvomv

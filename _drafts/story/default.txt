@@ -2,4 +2,16 @@ Title: Story
 
 ----
 
+Summary: Stories
+
+----
+
+Layout: [{"attrs":{"color":""},"columns":[{"blocks":[{"content":{"buttons":[{"label":"fgfgnhrftn","style":"primary","title":"","url":""}]},"id":"95a10c15-0063-492b-ac52-f08a7960527c","isHidden":false,"type":"buttons"}],"id":"1d4f0c65-754e-4e61-b053-76fd3816cf1f","width":"1/2"},{"blocks":[{"content":[],"id":"1e5a64c9-0a6a-4467-bee1-a41c185073aa","isHidden":false,"type":"line"}],"id":"8e26f3ab-6036-4638-ac3a-adf04920d301","width":"1/2"}],"id":"f5ff430c-ccc3-4c3c-b168-c0b145ba3e1a"},{"attrs":{"color":"#c0d5de"},"columns":[{"blocks":[{"content":{"text":"\"sweet\"","citation":""},"id":"d69ce37b-3e7c-43b2-993d-558b2c73ec3c","isHidden":false,"type":"quote"}],"id":"0c2955e5-9806-43ba-a040-d750b1b7a7c3","width":"1/1"}],"id":"266051c3-4da8-4511-9c85-36edc64bffa4"}]
+
+----
+
+Cover: 
+
+----
+
 Uuid: xt9b3oecthfha50v
