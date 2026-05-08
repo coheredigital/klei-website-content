@@ -4,9 +4,9 @@ Title: Array Mini Floating Shelf
 
 Gallery:
 
+- file://cgtyatfkqspc2jmb
 - file://dudwbrgayee54mvv
 - file://gnbrh28gmd5wgozf
-- file://cgtyatfkqspc2jmb
 - file://v19hdkxg7jwndddf
 - file://zsnyb2imtgr9bqsg
 
